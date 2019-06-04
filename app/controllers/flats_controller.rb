@@ -27,6 +27,7 @@ end
 
 def update
   @flat.update(flat_params)
+  redirect_to flat_path
 end
 
 def destroy
