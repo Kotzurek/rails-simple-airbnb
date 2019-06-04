@@ -1,0 +1,11 @@
+.button {
+  padding: 15px;
+  background-color: blue;
+  text-decoration: none;
+  border-radius: 15px;
+  color: white;
+}
+
+.button:hover {
+  font-weight: bolder;
+}
